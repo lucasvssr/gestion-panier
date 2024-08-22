@@ -1,0 +1,189 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "description": "Souris a1",
+      "price": 12.5,
+      "type": "souris",
+      "image": "/images/souris1.jpg"
+    },
+    {
+      "id": 2,
+      "description": "Clavier nx12",
+      "price": 15.7,
+      "type": "clavier",
+      "image": "/images/clavier1.jpg"
+    },
+    {
+      "id": 3,
+      "description": "Souris b7",
+      "price": 26.9,
+      "type": "souris",
+      "image": "/images/souris2.jpg"
+    },
+    {
+      "id": 4,
+      "description": "Souris z42",
+      "price": 121,
+      "type": "souris",
+      "image": "/images/souris3.jpg"
+    },
+    {
+      "id": 5,
+      "description": "Ecran 26p",
+      "price": 107.5,
+      "type": "ecran",
+      "image": "/images/ecran1.jpg"
+    },
+    {
+      "id": 6,
+      "description": "Ecran 19p",
+      "price": 55.1,
+      "type": "ecran",
+      "image": "/images/ecran2.jpg"
+    },
+    {
+      "id": 7,
+      "description": "Clavier mécanique",
+      "price": 102.5,
+      "type": "clavier",
+      "image": "/images/clavier2.jpg"
+    },
+    {
+      "id": 8,
+      "description": "Clavier b12",
+      "price": 52.2,
+      "type": "clavier",
+      "image": "/images/clavier3.jpg"
+    },
+    {
+      "id": 9,
+      "description": "Clavier ergo1",
+      "price": 22.8,
+      "type": "clavier",
+      "image": "/images/clavier4.jpg"
+    },
+    {
+      "id": 10,
+      "description": "Clavier 1er price",
+      "price": 10.5,
+      "type": "clavier",
+      "image": "/images/clavier5.jpg"
+    },
+    {
+      "id": 11,
+      "description": "Ecran 21p",
+      "price": 85.1,
+      "type": "ecran",
+      "image": "/images/ecran3.jpg"
+    },
+    {
+      "id": 12,
+      "description": "Clavier de fou",
+      "price": 100.5,
+      "type": "clavier",
+      "image": "/images/clavier6.jpg"
+    },
+    {
+      "id": 13,
+      "description": "Ecran 42p",
+      "price": 850.1,
+      "type": "ecran",
+      "image": "/images/ecran4.jpg"
+    },
+    {
+      "id": 14,
+      "description": "Souris gamer",
+      "price": 69.1,
+      "type": "souris",
+      "image": "/images/souris4.jpg"
+    },
+    {
+      "id": 15,
+      "description": "Souris 1er price",
+      "price": 9.9,
+      "type": "souris",
+      "image": "/images/souris5.jpg"
+    },
+    {
+      "id": 16,
+      "description": "Ecran couleur",
+      "price": 80.2,
+      "type": "ecran",
+      "image": "/images/ecran5.jpg"
+    },
+    {
+      "id": 17,
+      "description": "Ecran monochrome",
+      "price": 10.1,
+      "type": "ecran",
+      "image": "/images/ecran6.jpg"
+    },
+    {
+      "id": 18,
+      "description": "Mickey mouse",
+      "price": 19.9,
+      "type": "souris",
+      "image": "/images/souris6.jpg"
+    },
+    {
+      "id": 19,
+      "description": "PC 1",
+      "price": 254.9,
+      "type": "pc",
+      "image": "/images/pc1.jpg"
+    },
+    {
+      "id": 20,
+      "description": "PC 2",
+      "price": 304.9,
+      "type": "pc",
+      "image": "/images/pc2.jpg"
+    },
+    {
+      "id": 21,
+      "description": "PC 3",
+      "price": 410.9,
+      "type": "pc",
+      "image": "/images/pc3.jpg"
+    },
+    {
+      "id": 22,
+      "description": "PC 4",
+      "price": 548.9,
+      "type": "pc",
+      "image": "/images/pc4.jpg"
+    },
+    {
+      "id": 23,
+      "description": "PC 5",
+      "price": 621.9,
+      "type": "pc",
+      "image": "/images/pc5.jpg"
+    },
+    {
+      "id": 24,
+      "description": "PC 6",
+      "price": 1054.9,
+      "type": "pc",
+      "image": "/images/pc6.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 7,
+      "quantity": 2,
+      "price": 102.5
+    },
+    {
+      "id": 2,
+      "quantity": 1,
+      "price": 15.7
+    },
+    {
+      "id": 8,
+      "quantity": 4,
+      "price": 52.2
+    }
+  ]
+}
